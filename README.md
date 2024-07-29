@@ -35,7 +35,9 @@ Protected route: Users must be logged in to access this page.
 
 State Management
 LocalStorage: Used to persist user data across page reloads.
-Redux: Manages application state, including user authentication status and profile information.
+
+Redux Toolkit: Manages application state, including user authentication status and profile information.
+
 Route Protection
 All routes are protected to ensure users must be logged in to access certain pages.
 If a user refreshes the page, their data is maintained using LocalStorage and Redux.
