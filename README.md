@@ -42,7 +42,7 @@ If a user refreshes the page, their data is maintained using LocalStorage and Re
 
 LIVE-LINK:https://accountmanagerwithkeyur.vercel.app/
 
-(https://github.com/user-attachments/assets/6200a9f4-70c3-4ea4-bd19-4298a3795865)
+![login](https://github.com/user-attachments/assets/cc598ef4-2d8f-4639-aa45-da9f83b278b7)
 ![profile](https://github.com/user-attachments/assets/2d2285d8-92f6-41b8-87b4-887ee1e8f13f)
 ![dasdashboard ](https://github.com/user-attachments/assets/fa6b7df9-37b3-486b-9ddc-e3b3c32c2d04)
 
